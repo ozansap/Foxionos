@@ -1,0 +1,19 @@
+{
+  "name": "foxionos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "init": "ts-node ."
+  },
+  "keywords": [],
+  "author": "Swagnemite",
+  "license": "MIT",
+  "dependencies": {
+    "@types/mongodb": "^3.6.20",
+    "discord.js": "^13.0.0-dev.d6c43a5.1625918569",
+    "mongodb": "^3.6.10",
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5"
+  }
+}
